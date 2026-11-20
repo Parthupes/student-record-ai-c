@@ -21,9 +21,9 @@ The advisor uses local C `if-else` conditions to show a recommendation based on 
 
 | CGPA range | Category |
 |---|---|
-| 9.00–10.00 | Excellent Performance |
-| 7.50–8.99 | Good Performance |
-| 6.00–7.49 | Needs Improvement |
+| 9.00â€“10.00 | Excellent Performance |
+| 7.50â€“8.99 | Good Performance |
+| 6.00â€“7.49 | Needs Improvement |
 | Greater than 0 and below 6.00 | Requires Immediate Attention |
 
 These ranges are project-defined guidance and may be adjusted to match institutional rules.
@@ -74,9 +74,9 @@ gcc student_record_management_system.c -o Student_Record
 
 The `tests` folder contains:
 
-- `sample_input.txt` — sample menu selections and student details to enter into the program.
-- `expected_output.txt` — important expected results, including academic advisor categories.
-- `README.md` — instructions for running the sample test.
+- `sample_input.txt` â€” sample menu selections and student details to enter into the program.
+- `expected_output.txt` â€” important expected results, including academic advisor categories.
+- `README.md` â€” instructions for running the sample test.
 
 On Windows Command Prompt, run the sample input with:
 
@@ -103,7 +103,7 @@ ChatGPT was used as an assistance tool during development to review code, explai
 Refer to `AI_Usage_Log_Student_Record_Management_System.md` for the prompts and ideas used.
 
 ## Author
-Harsimar Singh 
+Partha Sarathi Mahato 
 
 ---
 
